@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="700" version="1.1" viewBox="0 0 185.2 185.2" xmlns="http://www.w3.org/2000/svg">
+ <g id="" transform="translate(.2405 -151.6)" stroke="#e1e1e1" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.762">
+  <path d="m16.96 195v49.05h42.23v-19.31l33.17-29.74z" fill="#e8fffa"/>
+  <path d="m16.96 195c0.2792-14.69 22.75-27.66 55.1-31.61 32.35-3.954 66.79 1.926 84.45 14.42s14.28 28.59-8.281 39.47-58.87 13.92-89.04 7.464l33.17-29.74z" fill="#a6e6d8"/>
+  <path d="m167.8 195.2c0 18.21-33.76 32.97-75.41 32.97-11.92 0-23.15-1.239-33.17-3.392v49.06c10.02 2.154 21.25 3.398 33.17 3.398 41.65 0 75.41-14.76 75.41-32.97z" fill="#6dcbb7"/>
+  <path d="m59.19 244.1h-42.23v49.06h42.23z" fill="#e8fffa"/>
+  <path d="m59.19 273.8v49.11c10.01 2.148 21.27 3.354 33.17 3.354 41.65 0 75.41-14.76 75.41-32.97v-49.06c0 18.21-33.76 32.97-75.41 32.97-11.92 0-23.15-1.244-33.17-3.398z" fill="#6dcbb7"/>
+ </g>
+ <g transform="matrix(1 0 0 1 -8.435 -18.66)" fill="none" stroke="#6dcbb7" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.82" style="paint-order:normal">
+  <g stroke="#6dcbb7" stroke-linejoin="round" stroke-width="14.82" style="paint-order:normal">
+   <path d="m176.4 62.17v98.13" style="paint-order:normal"/>
+   <path d="m67.85 160.2-42.22-0.1534m150.8 0.2112c0.0305 8.008-6.599 15.96-19.54 22.21-22.56 10.88-58.87 13.92-89.04 7.464" style="paint-order:normal"/>
+   <path d="m25.63 61.9c0.28-14.69 22.75-27.52 55.1-31.48 32.35-3.954 66.79 1.926 84.45 14.42 17.66 12.5 14.28 28.59-8.281 39.47-22.56 10.88-58.87 13.92-89.04 7.464l33.17-29.61z" style="paint-order:normal"/>
+   <path d="m67.85 111.1-42.21-0.1534m150.8 0.2866c-0.0113 7.983-6.64 15.91-19.54 22.13-22.56 10.88-58.87 13.92-89.04 7.464" style="paint-order:normal"/>
+   <path d="m25.63 61.9v98.13" style="paint-order:normal"/>
+   <path d="m67.86 91.78v98.13" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>
